@@ -1,0 +1,49 @@
+.githubicons,
+.navbar_properties_with_icon li a span,
+.textcontainer-h1-span,
+.headind-question-h2-1st,
+.textcontainer-h1-span2 {
+    color: var(--clr-green-400);
+}
+.buttonmoreaboutme,
+.range::before {
+    background-color: var(--clr-green-400);
+
+}
+.form-submit {
+    background-color: var(--clr-green-400);
+}
+
+.imgcontainer:before,
+.imgcontainer:after,
+.imgcontainer>:first-child:before,
+.imgcontainer>:first-child:after {
+    border-color: var(--clr-green-400);
+}
+
+/* .colorchoice {
+    border-bottom: 1px dotted var(--clr-green-400);
+
+} */
+
+.about_us_heading>:first-child:before {
+    border-bottom: 0.5rem solid var(--clr-green-400);
+
+}
+
+.about_us_heading>:first-child:after {
+    border-bottom: 0.6rem solid var(--clr-green-400);
+}
+
+.social-media-handle:hover {
+    border-bottom: 2px solid var(--clr-green-400);
+}
+
+.experience-container-div-span-2nd,
+.experience-container-div-span2-2nd {
+    border-right: 2px solid var(--clr-green-400);
+}
+.portfolio-btn {
+    color: var(--clr-green-400);
+    border: 1px solid var(--clr-green-400);
+}
