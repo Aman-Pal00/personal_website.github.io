@@ -667,7 +667,7 @@ header {
 .portfolio-container div h3 {
     font-size: 2rem;
     line-height: 3rem;
-    margin: 1rem;
+    margin: 1rem 1rem 1rem 1em;
 }
 
 .portfolio-btn {
